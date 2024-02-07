@@ -2,7 +2,7 @@
 ```
 npm install
 ```
-## test command
+# execute code
 ```
 npm test
 ```
